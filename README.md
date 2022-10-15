@@ -12,4 +12,5 @@ MonCity has decided to hire your team of data warehouse engineers to:
 - Generate Business Intelligence report for the management
 
 URL for BI dashboard: https://public.tableau.com/app/profile/kokowin/viz/MonCityBIDashboard/MonCityBI?publish=yes
+
 Tech Stack: Oracle SQL, Tableau, LucidChart
